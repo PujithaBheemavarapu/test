@@ -1,5 +1,0 @@
-{{#user}}
-Name : Bheemavarapu Pujitha
-Skills : HTML,CSS,Python
-Email : pujiii.1203@gmail.com
-{{/user}}
